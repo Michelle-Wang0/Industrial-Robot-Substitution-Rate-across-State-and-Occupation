@@ -11,19 +11,19 @@ Spyder
 For the penetration map generation: 
 please download the pyecharts in Python: 
 * Open Spyder.
-* Type “pip install pyecharts”.
+* Type `pip install pyecharts`
 * Finish! You are ready to run the penetration map generating program.
 
 ## For the dynamic ranking: 
 please download the ffmpeg on anaconda: 
 * Open anaconda prompt.
-* Type “conda install -c conda-forge ffmpeg”.
+* Type `conda install -c conda-forge ffmpeg`
 * Finish! You are ready to run the dynamic ranking program.
 
 # Program User Instructions
 Please unzip the file 'CyberPynk-Final Program.zip'. 
 
-# 1.Occupational Level Program
+# 1.[Occupational Level Program](https://github.com/Michelle-Wang0/Industrial-Robot-Substitution-Rate-across-State-and-Occupation/tree/aa33a4895888e29dba20fbfd616337cb884a7d9e/1.%20Occupation%20-%20Replacement%20Rate)
 ## 1.1 Data Scraping:
 1. Please open the “1. Occupation - Replacement Rate” folder.
 2. After opening the former folder, you will see two folders, please open the “Code for data scraping from ONET” folder for web scraping.
@@ -42,8 +42,8 @@ Please unzip the file 'CyberPynk-Final Program.zip'.
 1. Please open the “2. Regional - Penetration by States” folder. Then open the “0. Retrieve_BEA_API_data” folder.
 2. Download the latest version of BEA-API tool (.whl file) from https://us-bea.github.io/beaapi/README.html
 3. You can refer to the detailed instruction from above website to install the BEA-API tool. Open the terminal and type: (The path and the version of the package should convert according to yours)
- python -m pip install --upgrade --force-reinstall /Users/Your_User_name/Downloads/beaapi-0.0.2-py3-none-any.whl
-4. Register for a BEA-API key in https://apps.bea.gov/api/signup/ and save it to the beakey = 'YOUR 36-DIGIT API KEY' in the corresponding part of “Retrieve_BEA_API_data.py”
+ `python -m pip install --upgrade --force-reinstall /Users/Your_User_name/Downloads/beaapi-0.0.2-py3-none-any.whl`
+4. Register for a BEA-API key in https://apps.bea.gov/api/signup/ and save it to the `beakey = 'YOUR 36-DIGIT API KEY'` in the corresponding part of “Retrieve_BEA_API_data.py”
 5. Run the code “Retrieve_BEA_API_data.py” to fetech BEA API data.
 6. The retrieved data will be stored in the same folder with the name “201x_employment.xlsx”.
 
