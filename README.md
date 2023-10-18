@@ -20,9 +20,6 @@ please download the ffmpeg on anaconda:
 * Type `conda install -c conda-forge ffmpeg`
 * Finish! You are ready to run the dynamic ranking program.
 
-# Program User Instructions
-Please unzip the file 'CyberPynk-Final Program.zip'. 
-
 # 1.Occupational Level Program
 ## 1.1 Data Scraping:
 1. Please open the [1. Occupation - Replacement Rate](https://github.com/Michelle-Wang0/Industrial-Robot-Substitution-Rate-across-State-and-Occupation/tree/aa33a4895888e29dba20fbfd616337cb884a7d9e/1.%20Occupation%20-%20Replacement%20Rate) folder.
