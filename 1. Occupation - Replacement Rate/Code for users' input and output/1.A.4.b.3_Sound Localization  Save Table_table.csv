@@ -1,0 +1,874 @@
+,Importance,Level,Job Zone,Code,Occupation
+0,50,41,2,53-5011.00,Sailors and Marine Oilers
+1,47,41,4,53-2011.00,"Airline Pilots, Copilots, and Flight Engineers"
+2,47,41,2,47-5022.00,"Excavating and Loading Machine and Dragline Operators, Surface Mining"
+3,44,46,2,53-4041.00,Subway and Streetcar Operators
+4,44,37,3,33-3051.00,Police and Sheriff's Patrol Officers
+5,44,34,3,49-9041.00,Industrial Machinery Mechanics Bright Outlook
+6,44,34,2,47-5013.00,"Service Unit Operators, Oil and Gas"
+7,44,30,2,53-6011.00,Bridge and Lock Tenders
+8,44,30,2,53-7041.00,Hoist and Winch Operators
+9,44,29,2,49-3043.00,Rail Car Repairers
+10,44,Not available,4,27-2041.00,Music Directors and Composers
+11,41,41,2,53-3032.00,Heavy and Tractor-Trailer Truck Drivers
+12,41,37,3,49-3031.00,Bus and Truck Mechanics and Diesel Engine Specialists
+13,41,37,3,53-5021.00,"Captains, Mates, and Pilots of Water Vessels"
+14,41,37,2,47-5041.00,Continuous Mining Machine Operators
+15,41,36,2,53-5022.00,Motorboat Operators
+16,41,36,2,47-5043.00,"Roof Bolters, Mining"
+17,41,32,2,51-9161.00,Computer Numerically Controlled Tool Operators
+18,41,30,3,49-3041.00,Farm Equipment Mechanics and Service Technicians
+19,41,30,2,53-4011.00,Locomotive Engineers
+20,41,30,3,33-3052.00,Transit and Railroad Police
+21,38,37,3,33-2011.00,Firefighters
+22,38,32,2,51-8099.01,Biofuels Processing Technicians
+23,38,30,3,49-1011.00,"First-Line Supervisors of Mechanics, Installers, and Repairers"
+24,38,29,3,53-7021.00,Crane and Tower Operators
+25,38,29,3,49-2096.00,"Electronic Equipment Installers and Repairers, Motor Vehicles"
+26,38,27,2,53-4013.00,"Rail Yard Engineers, Dinkey Operators, and Hostlers"
+27,35,36,3,49-3023.00,Automotive Service Technicians and Mechanics
+28,35,30,3,49-2097.00,Audiovisual Equipment Installers and Repairers
+29,35,30,1,47-5011.00,"Derrick Operators, Oil and Gas"
+30,35,30,1,45-4021.00,Fallers
+31,35,30,3,49-3042.00,"Mobile Heavy Equipment Mechanics, Except Engines"
+32,35,29,3,51-8013.04,Hydroelectric Plant Technicians
+33,35,27,2,49-9095.00,Manufactured Building and Mobile Home Installers
+34,31,34,3,53-2012.00,Commercial Pilots
+35,31,32,3,49-3052.00,Motorcycle Mechanics
+36,31,30,2,53-3052.00,"Bus Drivers, Transit and Intercity"
+37,31,30,2,53-4022.00,"Railroad Brake, Signal, and Switch Operators and Locomotive Firers"
+38,31,29,2,47-5081.00,Helpers--Extraction Workers
+39,31,27,3,17-3027.01,Automotive Engineering Technicians
+40,31,27,2,47-3016.00,Helpers--Roofers
+41,31,27,3,49-3051.00,Motorboat Mechanics and Service Technicians
+42,28,32,4,33-3031.00,Fish and Game Wardens
+43,28,32,2,47-2221.00,Structural Iron and Steel Workers
+44,28,30,3,49-2092.00,"Electric Motor, Power Tool, and Related Repairers"
+45,28,30,3,33-1012.00,First-Line Supervisors of Police and Detectives
+46,28,30,3,49-9021.00,"Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+47,28,30,2,47-4051.00,Highway Maintenance Workers
+48,28,30,1,45-4022.00,Logging Equipment Operators
+49,28,30,1,47-5071.00,"Roustabouts, Oil and Gas"
+50,28,30,3,49-9097.00,Signal and Track Switch Repairers
+51,28,29,1,45-2091.00,Agricultural Equipment Operators
+52,28,29,2,33-9011.00,Animal Control Workers
+53,28,29,2,51-9021.00,"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+54,28,29,2,49-9099.01,Geothermal Technicians
+55,28,29,2,53-7051.00,Industrial Truck and Tractor Operators
+56,28,29,2,51-4051.00,Metal-Refining Furnace Operators and Tenders
+57,28,29,2,49-9044.00,Millwrights
+58,28,29,2,47-2073.00,Operating Engineers and Other Construction Equipment Operators
+59,28,29,2,49-3053.00,Outdoor Power Equipment and Other Small Engine Mechanics
+60,28,29,1,47-4071.00,Septic Tank Servicers and Sewer Pipe Cleaners
+61,28,27,2,53-6031.00,Automotive and Watercraft Service Attendants
+62,28,27,3,49-9092.00,Commercial Divers
+63,28,27,3,33-3021.00,Detectives and Criminal Investigators
+64,28,27,2,47-5032.00,"Explosives Workers, Ordnance Handling Experts, and Blasters"
+65,28,27,2,37-2021.00,Pest Control Workers
+66,28,27,3,53-5031.00,Ship Engineers
+67,28,27,2,37-3013.00,Tree Trimmers and Pruners
+68,28,25,2,51-8013.03,Biomass Plant Technicians
+69,28,25,3,19-4051.00,Nuclear Technicians
+70,28,25,2,33-3041.00,Parking Enforcement Workers
+71,28,21,2,51-4031.00,"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+72,28,21,2,51-9012.00,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+73,28,20,2,47-2231.00,Solar Photovoltaic Installers
+74,28,18,2,39-9011.01,Nannies
+75,28,Not available,3,33-1021.00,First-Line Supervisors of Firefighting and Prevention Workers
+76,28,Not available,4,27-2042.00,Musicians and Singers
+77,27,25,1,45-3031.00,Fishing and Hunting Workers
+78,25,30,2,33-3012.00,Correctional Officers and Jailers
+79,25,29,3,49-3011.00,Aircraft Mechanics and Service Technicians
+80,25,29,3,53-6051.01,Aviation Inspectors
+81,25,29,2,53-3031.00,Driver/Sales Workers
+82,25,29,2,45-4011.00,Forest and Conservation Workers
+83,25,29,2,49-9098.00,"Helpers--Installation, Maintenance, and Repair Workers"
+84,25,29,2,53-3033.00,Light Truck Drivers
+85,25,29,2,49-9011.00,Mechanical Door Repairers
+86,25,29,2,53-7081.00,Refuse and Recyclable Material Collectors
+87,25,29,2,53-7121.00,"Tank Car, Truck, and Ship Loaders"
+88,25,29,3,49-9081.00,Wind Turbine Service Technicians
+89,25,27,2,51-2011.00,"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+90,25,27,2,47-5023.00,"Earth Drillers, Except Oil and Gas"
+91,25,27,3,47-2111.00,Electricians
+92,25,27,3,49-9043.00,"Maintenance Workers, Machinery"
+93,25,27,2,43-5041.00,"Meter Readers, Utilities"
+94,25,27,2,51-9023.00,"Mixing and Blending Machine Setters, Operators, and Tenders"
+95,25,27,2,51-8093.00,"Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+96,25,27,3,47-2152.00,"Plumbers, Pipefitters, and Steamfitters"
+97,25,27,2,51-8013.00,Power Plant Operators
+98,25,27,3,17-3024.01,Robotics Technicians
+99,25,27,3,51-8021.00,Stationary Engineers and Boiler Operators
+100,25,27,3,49-2022.00,"Telecommunications Equipment Installers and Repairers, Except Line Installers"
+101,25,27,2,49-9052.00,Telecommunications Line Installers and Repairers
+102,25,27,2,51-6062.00,"Textile Cutting Machine Setters, Operators, and Tenders"
+103,25,25,2,39-2011.00,Animal Trainers
+104,25,25,3,47-2011.00,Boilermakers
+105,25,25,3,45-1011.00,"First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+106,25,25,2,51-8092.00,Gas Plant Operators
+107,25,25,2,51-4191.00,"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+108,25,25,2,47-3012.00,Helpers--Carpenters
+109,25,25,2,53-6021.00,Parking Attendants
+110,25,25,2,47-2072.00,Pile Driver Operators
+111,25,25,2,33-9032.00,Security Guards
+112,25,23,2,49-3021.00,Automotive Body and Related Repairers
+113,25,23,2,51-6091.00,"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+114,25,23,2,51-2051.00,Fiberglass Laminators and Fabricators
+115,25,23,2,47-2131.00,"Insulation Workers, Floor, Ceiling, and Wall"
+116,25,23,2,47-5044.00,"Loading and Moving Machine Operators, Underground Mining"
+117,25,23,3,29-1124.00,Radiation Therapists
+118,25,23,2,49-3092.00,Recreational Vehicle Service Technicians
+119,25,23,2,49-9096.00,Riggers
+120,25,23,2,47-4099.03,Weatherization Installers and Technicians
+121,25,21,3,53-2022.00,Airfield Operations Specialists
+122,25,21,4,17-2141.02,Automotive Engineers
+123,25,21,1,53-7011.00,Conveyor Operators and Tenders
+124,25,21,3,47-4011.01,Energy Auditors
+125,25,21,3,33-2021.00,Fire Inspectors and Investigators
+126,25,21,3,33-1011.00,First-Line Supervisors of Correctional Officers
+127,25,21,2,53-7071.00,Gas Compressor and Gas Pumping Station Operators
+128,25,21,2,49-9031.00,Home Appliance Repairers
+129,25,21,2,47-2151.00,Pipelayers
+130,25,21,2,43-5052.00,Postal Service Mail Carriers
+131,25,21,3,47-2022.00,Stonemasons
+132,25,21,2,49-3093.00,Tire Repairers and Changers
+133,25,21,4,19-1023.00,Zoologists and Wildlife Biologists
+134,25,20,2,39-6011.00,Baggage Porters and Bellhops
+135,25,20,3,49-2011.00,"Computer, Automated Teller, and Office Machine Repairers"
+136,25,20,3,47-4021.00,Elevator and Escalator Installers and Repairers
+137,25,20,3,37-1012.00,"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+138,25,20,3,19-4071.00,Forest and Conservation Technicians
+139,25,20,2,51-9022.00,"Grinding and Polishing Workers, Hand"
+140,25,20,2,33-9092.00,"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+141,25,20,3,49-9071.00,"Maintenance and Repair Workers, General"
+142,25,20,1,47-2161.00,Plasterers and Stucco Masons
+143,25,20,2,51-4052.00,"Pourers and Casters, Metal"
+144,25,20,3,49-2021.00,"Radio, Cellular, and Tower Equipment Installers and Repairers"
+145,25,20,3,49-2098.00,Security and Fire Alarm Systems Installers
+146,25,20,3,53-6041.00,Traffic Technicians
+147,25,20,2,51-6093.00,Upholsterers
+148,25,18,3,13-1041.00,Compliance Officers
+149,25,18,3,49-9012.00,"Control and Valve Installers and Repairers, Except Mechanical Door"
+150,25,18,3,49-2095.00,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+151,25,18,2,49-9051.00,Electrical Power-Line Installers and Repairers
+152,25,18,3,17-3024.00,Electro-Mechanical and Mechatronics Technologists and Technicians
+153,25,18,4,17-3025.00,Environmental Engineering Technologists and Technicians
+154,25,18,4,19-1032.00,Foresters
+155,25,18,3,47-4041.00,Hazardous Materials Removal Workers
+156,25,18,2,49-9094.00,Locksmiths and Safe Repairers
+157,25,18,3,17-3027.00,Mechanical Engineering Technologists and Technicians
+158,25,18,3,39-4031.00,"Morticians, Undertakers, and Funeral Arrangers"
+159,25,18,4,19-1031.03,Park Naturalists
+160,25,18,2,37-3012.00,"Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+161,25,18,2,53-7072.00,"Pump Operators, Except Wellhead Pumpers"
+162,25,18,3,11-9199.09,Wind Energy Operations Managers
+163,25,16,3,19-4012.00,Agricultural Technicians
+164,25,16,2,47-2021.00,Brickmasons and Blockmasons
+165,25,16,2,51-4032.00,"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+166,25,16,3,39-4011.00,Embalmers
+167,25,16,2,51-2031.00,Engine and Other Machine Assemblers
+168,25,16,2,51-3092.00,Food Batchmakers
+169,25,16,2,51-4081.00,"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+170,25,16,2,51-9111.00,Packaging and Filling Machine Operators and Tenders
+171,25,16,2,47-2141.00,"Painters, Construction and Maintenance"
+172,25,16,2,47-2181.00,Roofers
+173,25,14,3,47-4011.00,Construction and Building Inspectors
+174,25,14,1,35-9021.00,Dishwashers
+175,25,14,3,51-1011.00,First-Line Supervisors of Production and Operating Workers
+176,25,14,2,43-5071.00,"Shipping, Receiving, and Inventory Clerks"
+177,25,14,2,47-2082.00,Tapers
+178,22,29,2,43-5021.00,Couriers and Messengers
+179,22,25,2,53-1041.00,Aircraft Cargo Handling Supervisors
+180,22,25,2,17-3029.01,Non-Destructive Testing Specialists
+181,22,25,2,51-5113.00,Print Binding and Finishing Workers
+182,22,23,2,53-7031.00,Dredge Operators
+183,22,23,2,53-4031.00,Railroad Conductors and Yardmasters
+184,22,23,2,33-9099.02,Retail Loss Prevention Specialists
+185,22,23,2,51-4023.00,"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+186,22,23,2,47-2053.00,Terrazzo Workers and Finishers
+187,22,23,2,51-4121.00,"Welders, Cutters, Solderers, and Brazers"
+188,22,21,2,47-2031.00,Carpenters
+189,22,21,2,47-2061.00,Construction Laborers
+190,22,21,2,47-4031.00,Fence Erectors
+191,22,21,3,53-1043.00,First-Line Supervisors of Material-Moving Machine and Vehicle Operators
+192,22,21,2,51-9195.00,"Molders, Shapers, and Casters, Except Metal and Plastic"
+193,22,21,2,47-2071.00,"Paving, Surfacing, and Tamping Equipment Operators"
+194,22,21,2,47-2171.00,Reinforcing Iron and Rebar Workers
+195,22,21,3,47-1011.03,Solar Energy Installation Managers
+196,22,20,2,51-4021.00,"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+197,22,20,1,45-2092.00,"Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+198,22,20,3,13-1041.04,Government Property Inspectors and Investigators
+199,22,20,3,11-3051.06,Hydroelectric Production Managers
+200,22,20,2,47-4061.00,Rail-Track Laying and Maintenance Equipment Operators
+201,22,20,3,47-2152.04,Solar Thermal Installers and Technicians
+202,22,19,4,11-9013.00,"Farmers, Ranchers, and Other Agricultural Managers"
+203,22,18,4,13-1041.01,Environmental Compliance Inspectors
+204,22,18,4,19-4042.00,"Environmental Science and Protection Technicians, Including Health"
+205,22,18,2,51-4022.00,"Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+206,22,18,1,47-3014.00,"Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+207,22,18,2,31-9093.00,Medical Equipment Preparers
+208,22,18,2,53-6051.07,"Transportation Vehicle, Equipment and Systems Inspectors, Except Aviation"
+209,22,16,2,51-9191.00,Adhesive Bonding Machine Operators and Tenders
+210,22,16,2,53-3011.00,"Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+211,22,16,2,51-7011.00,Cabinetmakers and Bench Carpenters
+212,22,16,3,33-3051.04,Customs and Border Protection Officers
+213,22,16,3,47-1011.00,First-Line Supervisors of Construction Trades and Extraction Workers
+214,22,16,3,33-2022.00,Forest Fire Inspectors and Prevention Specialists
+215,22,16,2,53-7062.00,"Laborers and Freight, Stock, and Material Movers, Hand"
+216,22,16,3,49-9062.00,Medical Equipment Repairers
+217,22,16,4,29-1129.02,Music Therapists
+218,22,14,2,49-9091.00,"Coin, Vending, and Amusement Machine Servicers and Repairers"
+219,22,14,2,45-2093.00,"Farmworkers, Farm, Ranch, and Aquacultural Animals"
+220,22,14,2,47-2121.00,Glaziers
+221,22,14,2,47-2132.00,"Insulation Workers, Mechanical"
+222,22,14,3,51-4041.00,Machinists
+223,22,13,2,53-1042.00,"First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+224,22,13,1,37-3011.00,Landscaping and Groundskeeping Workers
+225,22,13,2,51-4034.00,"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+226,22,13,2,45-4023.00,Log Graders and Scalers
+227,22,13,5,29-1241.00,"Ophthalmologists, Except Pediatric"
+228,22,13,3,41-9022.00,Real Estate Sales Agents
+229,19,21,2,53-7062.04,Recycling and Reclamation Workers
+230,19,21,2,47-5012.00,"Rotary Drill Operators, Oil and Gas"
+231,19,20,2,51-9124.00,"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+232,19,20,2,51-9193.00,Cooling and Freezing Equipment Operators and Tenders
+233,19,20,2,47-3011.00,"Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+234,19,18,2,49-3022.00,Automotive Glass Installers and Repairers
+235,19,18,3,51-7032.00,"Patternmakers, Wood"
+236,19,18,3,29-2034.00,Radiologic Technologists and Technicians
+237,19,18,2,49-9045.00,"Refractory Materials Repairers, Except Brickmasons"
+238,19,18,2,47-4091.00,Segmental Pavers
+239,19,18,2,53-7065.00,Stockers and Order Fillers
+240,19,16,2,39-1013.00,First-Line Supervisors of Gambling Services Workers
+241,19,16,3,11-9171.00,Funeral Home Managers
+242,19,14,2,47-2041.00,Carpet Installers
+243,19,14,4,19-1031.00,Conservation Scientists
+244,19,14,2,51-3091.00,"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+245,19,14,2,51-4072.00,"Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+246,19,14,2,39-3021.00,Motion Picture Projectionists
+247,19,14,3,51-8031.00,Water and Wastewater Treatment Plant and System Operators
+248,19,14,2,51-7042.00,"Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+249,19,13,2,45-2011.00,Agricultural Inspectors
+250,19,13,3,53-2021.00,Air Traffic Controllers
+251,19,13,1,47-2051.00,Cement Masons and Concrete Finishers
+252,19,13,2,51-9011.00,Chemical Equipment Operators and Tenders
+253,19,13,2,51-9032.00,"Cutting and Slicing Machine Setters, Operators, and Tenders"
+254,19,13,2,51-9041.00,"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+255,19,13,5,25-9021.00,Farm and Home Management Educators
+256,19,13,3,19-4092.00,Forensic Science Technicians
+257,19,13,2,51-4192.00,"Layout Workers, Metal and Plastic"
+258,19,13,2,51-4035.00,"Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+259,19,13,3,49-9063.00,Musical Instrument Repairers and Tuners
+260,19,13,2,51-9196.00,"Paper Goods Machine Setters, Operators, and Tenders"
+261,19,13,4,19-1031.02,Range Managers
+262,19,13,2,47-2211.00,Sheet Metal Workers
+263,19,13,2,39-7012.00,Travel Guides
+264,19,11,2,39-2021.00,Animal Caretakers
+265,19,11,3,13-1041.06,Coroners
+266,19,11,2,47-2081.00,Drywall and Ceiling Tile Installers
+267,19,11,2,51-4071.00,Foundry Mold and Coremakers
+268,19,11,2,47-3015.00,"Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+269,19,11,2,51-9198.00,Helpers--Production Workers
+270,19,11,4,19-5011.00,Occupational Health and Safety Specialists
+271,19,11,3,51-4062.00,"Patternmakers, Metal and Plastic"
+272,19,11,3,33-3021.02,Police Identification and Records Officers
+273,19,11,3,33-9021.00,Private Detectives and Investigators
+274,19,11,3,29-1126.00,Respiratory Therapists
+275,19,11,2,51-7041.00,"Sawing Machine Setters, Operators, and Tenders, Wood"
+276,19,11,2,51-9197.00,Tire Builders
+277,19,11,2,27-2023.00,"Umpires, Referees, and Other Sports Officials"
+278,19,11,2,53-7073.00,Wellhead Pumpers
+279,16,18,3,49-2094.00,"Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+280,16,16,3,11-3051.02,Geothermal Production Managers
+281,16,14,2,45-2021.00,Animal Breeders
+282,16,14,4,21-1094.00,Community Health Workers
+283,16,14,3,49-2093.00,"Electrical and Electronics Installers and Repairers, Transportation Equipment"
+284,16,14,2,13-1074.00,Farm Labor Contractors
+285,16,14,2,51-4033.00,"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+286,16,13,3,27-4011.00,Audio and Video Technicians
+287,16,13,4,27-3011.00,Broadcast Announcers and Radio Disc Jockeys
+288,16,13,3,13-1032.00,"Insurance Appraisers, Auto Damage"
+289,16,13,3,51-7031.00,"Model Makers, Wood"
+290,16,13,3,27-4014.00,Sound Engineering Technicians
+291,16,13,2,51-2061.00,Timing Device Assemblers and Adjusters
+292,16,13,3,51-4111.00,Tool and Die Makers
+293,16,13,4,53-6051.00,Transportation Inspectors
+294,16,13,2,43-5111.00,"Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+295,16,11,4,17-2021.00,Agricultural Engineers
+296,16,11,2,27-2021.00,Athletes and Sports Competitors
+297,16,11,3,33-3011.00,Bailiffs
+298,16,11,3,27-4012.00,Broadcast Technicians
+299,16,11,3,25-1194.00,"Career/Technical Education Teachers, Postsecondary"
+300,16,11,2,33-9091.00,Crossing Guards and Flaggers
+301,16,11,5,19-2041.02,Environmental Restoration Planners
+302,16,11,4,11-9081.00,Lodging Managers
+303,16,11,1,51-3022.00,"Meat, Poultry, and Fish Cutters and Trimmers"
+304,16,11,4,27-2012.05,Media Technical Directors/Managers
+305,16,11,2,41-2022.00,Parts Salespersons
+306,16,11,2,51-4193.00,"Plating Machine Setters, Operators, and Tenders, Metal and Plastic"
+307,16,11,3,51-8012.00,Power Distributors and Dispatchers
+308,16,11,3,29-2053.00,Psychiatric Technicians
+309,16,11,2,53-1042.01,Recycling Coordinators
+310,16,11,1,47-5051.00,"Rock Splitters, Quarry"
+311,16,11,2,51-9141.00,Semiconductor Processing Technicians
+312,16,9,5,29-1181.00,Audiologists
+313,16,9,3,27-4031.00,"Camera Operators, Television, Video, and Film"
+314,16,9,2,41-2021.00,Counter and Rental Clerks
+315,16,9,4,11-9161.00,Emergency Management Directors
+316,16,9,1,47-2043.00,Floor Sanders and Finishers
+317,16,9,2,39-4021.00,Funeral Attendants
+318,16,9,2,41-2012.00,Gambling Change Persons and Booth Cashiers
+319,16,9,4,17-1022.01,Geodetic Surveyors
+320,16,9,5,19-2042.00,"Geoscientists, Except Hydrologists and Geographers"
+321,16,9,3,51-4061.00,"Model Makers, Metal and Plastic"
+322,16,9,3,19-4012.01,Precision Agriculture Technicians
+323,16,9,5,27-1027.00,Set and Exhibit Designers
+324,16,9,5,19-1013.00,Soil and Plant Scientists
+325,16,9,4,17-1022.00,Surveyors
+326,16,9,2,51-6061.00,Textile Bleaching and Dyeing Machine Operators and Tenders
+327,16,9,2,47-2044.00,Tile and Stone Setters
+328,13,14,2,51-8091.00,Chemical Plant and System Operators
+329,13,14,3,19-5012.00,Occupational Health and Safety Technicians
+330,13,14,2,47-2142.00,Paperhangers
+331,13,13,3,49-2091.00,Avionics Technicians
+332,13,13,2,51-3093.00,Food Cooking Machine Operators and Tenders
+333,13,11,3,11-3012.00,Administrative Services Managers
+334,13,11,2,51-9192.00,"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+335,13,11,2,31-1122.00,Personal Care Aides
+336,13,11,2,51-4194.00,"Tool Grinders, Filers, and Sharpeners"
+337,13,9,2,43-5011.00,Cargo and Freight Agents
+338,13,9,2,51-9194.00,Etchers and Engravers
+339,13,9,5,25-1043.00,"Forestry and Conservation Science Teachers, Postsecondary"
+340,13,9,2,51-9195.04,"Glass Blowers, Molders, Benders, and Finishers"
+341,13,9,3,29-2092.00,Hearing Aid Specialists
+342,13,9,2,47-3013.00,Helpers--Electricians
+343,13,9,4,11-3051.00,Industrial Production Managers
+344,13,9,2,51-9061.00,"Inspectors, Testers, Sorters, Samplers, and Weighers"
+345,13,9,5,11-9121.00,Natural Sciences Managers
+346,13,9,2,51-6041.00,Shoe and Leather Workers and Repairers
+347,13,9,4,17-2199.11,Solar Energy Systems Engineers
+348,13,9,2,51-2092.00,Team Assemblers
+349,13,9,5,29-1229.03,Urologists
+350,13,9,2,51-4122.00,"Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+351,13,7,4,41-3011.00,Advertising Sales Agents
+352,13,7,5,19-1029.04,Biologists
+353,13,7,4,11-3051.04,Biomass Power Plant Managers
+354,13,7,4,21-1021.00,"Child, Family, and School Social Workers"
+355,13,7,3,43-9031.00,Desktop Publishers
+356,13,7,4,19-2041.00,"Environmental Scientists and Specialists, Including Health"
+357,13,7,2,47-2042.00,"Floor Layers, Except Carpet, Wood, and Hard Tiles"
+358,13,7,2,51-9051.00,"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+359,13,7,2,51-7021.00,Furniture Finishers
+360,13,7,4,17-2111.00,"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+361,13,7,5,29-1122.01,"Low Vision Therapists, Orientation and Mobility Specialists, and Vision Rehabilitation Therapists"
+362,13,7,2,53-7064.00,"Packers and Packagers, Hand"
+363,13,7,3,51-9195.05,"Potters, Manufacturing"
+364,13,7,4,21-1092.00,Probation Officers and Correctional Treatment Specialists
+365,13,7,2,31-1133.00,Psychiatric Aides
+366,13,7,4,29-1125.00,Recreational Therapists
+367,13,7,2,51-9195.03,"Stone Cutters and Carvers, Manufacturing"
+368,13,7,5,21-1011.00,Substance Abuse and Behavioral Disorder Counselors
+369,13,Not relevant,4,19-4043.00,"Geological Technicians, Except Hydrologic Technicians"
+370,13,Not relevant,4,17-2121.00,Marine Engineers and Naval Architects
+371,13,Not relevant,3,17-3031.00,Surveying and Mapping Technicians
+372,11,6,4,13-2023.00,Appraisers and Assessors of Real Estate
+373,10,11,2,53-6061.00,Passenger Attendants
+374,10,11,4,27-2012.00,Producers and Directors
+375,10,11,3,51-2041.00,Structural Metal Fabricators and Fitters
+376,10,7,2,49-3091.00,Bicycle Repairers
+377,10,7,2,51-3021.00,Butchers and Meat Cutters
+378,10,7,3,17-3026.00,Industrial Engineering Technologists and Technicians
+379,10,7,3,39-9041.00,Residential Advisors
+380,10,7,4,17-2199.08,Robotics Engineers
+381,10,7,4,41-4012.00,"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+382,10,7,5,29-1127.00,Speech-Language Pathologists
+383,10,7,3,15-1241.01,Telecommunications Engineering Specialists
+384,10,5,5,19-1011.00,Animal Scientists
+385,10,5,3,35-1011.00,Chefs and Head Cooks
+386,10,5,5,11-1011.00,Chief Executives
+387,10,5,3,17-3022.00,Civil Engineering Technologists and Technicians
+388,10,5,2,53-7061.00,Cleaners of Vehicles and Equipment
+389,10,5,2,51-9081.00,Dental Laboratory Technicians
+390,10,5,2,51-2022.00,Electrical and Electronic Equipment Assemblers
+391,10,5,4,25-2021.00,"Elementary School Teachers, Except Special Education"
+392,10,5,2,31-9099.02,Endoscopy Technicians
+393,10,5,2,37-1011.00,First-Line Supervisors of Housekeeping and Janitorial Workers
+394,10,5,2,31-1121.00,Home Health Aides
+395,10,5,5,19-2043.00,Hydrologists
+396,10,5,2,53-7063.00,Machine Feeders and Offbearers
+397,10,5,3,25-2011.00,"Preschool Teachers, Except Special Education"
+398,10,Not relevant,5,25-2051.00,"Special Education Teachers, Preschool"
+399,8,Not relevant,4,11-3071.00,"Transportation, Storage, and Distribution Managers"
+400,6,Not relevant,1,35-3023.01,Baristas
+401,6,Not relevant,5,19-3033.00,Clinical and Counseling Psychologists
+402,6,Not relevant,2,51-2021.00,"Coil Winders, Tapers, and Finishers"
+403,6,Not relevant,4,11-9199.02,Compliance Managers
+404,6,Not relevant,2,51-2023.00,Electromechanical Equipment Assemblers
+405,6,Not relevant,3,39-9031.00,Exercise Trainers and Group Fitness Instructors
+406,6,Not relevant,1,35-3023.00,Fast Food and Counter Workers
+407,6,Not relevant,3,39-1022.00,First-Line Supervisors of Personal Service Workers
+408,6,Not relevant,2,27-1023.00,Floral Designers
+409,6,Not relevant,3,19-4013.00,Food Science Technicians
+410,6,Not relevant,4,17-2141.01,Fuel Cell Engineers
+411,6,Not relevant,4,11-1021.00,General and Operations Managers
+412,6,Not relevant,2,43-9051.00,"Mail Clerks and Mail Machine Operators, Except Postal Service"
+413,6,Not relevant,4,17-2112.03,Manufacturing Engineers
+414,6,Not relevant,3,31-9092.00,Medical Assistants
+415,6,Not relevant,3,31-2012.00,Occupational Therapy Aides
+416,6,Not relevant,2,31-1132.00,Orderlies
+417,6,Not relevant,2,51-5112.00,Printing Press Operators
+418,6,Not relevant,3,29-9093.00,Surgical Assistants
+419,6,Not relevant,2,51-6063.00,"Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+420,6,Not relevant,2,33-9093.00,Transportation Security Screeners
+421,5,Not relevant,3,17-3023.00,Electrical and Electronic Engineering Technologists and Technicians
+422,3,Not relevant,3,17-3021.00,Aerospace Engineering and Operations Technologists and Technicians
+423,3,Not relevant,1,39-3091.00,Amusement and Recreation Attendants
+424,3,Not relevant,5,19-3091.00,Anthropologists and Archeologists
+425,3,Not relevant,2,35-3011.00,Bartenders
+426,3,Not relevant,3,43-3021.00,Billing and Posting Clerks
+427,3,Not relevant,4,19-4021.00,Biological Technicians
+428,3,Not relevant,2,39-9011.00,Childcare Workers
+429,3,Not relevant,4,27-2022.00,Coaches and Scouts
+430,3,Not relevant,5,25-1122.00,"Communications Teachers, Postsecondary"
+431,3,Not relevant,4,13-1141.00,"Compensation, Benefits, and Job Analysis Specialists"
+432,3,Not relevant,4,17-2061.00,Computer Hardware Engineers
+433,3,Not relevant,4,15-1231.00,Computer Network Support Specialists
+434,3,Not relevant,3,51-9162.00,Computer Numerically Controlled Tool Programmers
+435,3,Not relevant,3,39-6012.00,Concierges
+436,3,Not relevant,2,35-2014.00,"Cooks, Restaurant"
+437,3,Not relevant,3,29-2051.00,Dietetic Technicians
+438,3,Not relevant,3,17-3012.00,Electrical and Electronics Drafters
+439,3,Not relevant,4,17-2071.00,Electrical Engineers
+440,3,Not relevant,5,19-3011.01,Environmental Economists
+441,3,Not relevant,4,13-1041.03,Equal Opportunity Representatives and Officers
+442,3,Not relevant,4,27-4032.00,Film and Video Editors
+443,3,Not relevant,4,11-3031.00,Financial Managers
+444,3,Not relevant,2,41-1011.00,First-Line Supervisors of Retail Sales Workers
+445,3,Not relevant,2,53-2031.00,Flight Attendants
+446,3,Not relevant,2,39-3011.00,Gambling Dealers
+447,3,Not relevant,4,15-1299.09,Information Technology Project Managers
+448,3,Not relevant,2,43-9041.00,Insurance Claims and Policy Processing Clerks
+449,3,Not relevant,4,25-2012.00,"Kindergarten Teachers, Except Special Education"
+450,3,Not relevant,5,25-4022.00,Librarians and Media Collections Specialists
+451,3,Not relevant,3,25-4031.00,Library Technicians
+452,3,Not relevant,4,17-2199.05,Mechatronics Engineers
+453,3,Not relevant,4,27-2012.03,Media Programming Directors
+454,3,Not relevant,4,13-1121.00,"Meeting, Convention, and Event Planners"
+455,3,Not relevant,4,17-2151.00,"Mining and Geological Engineers, Including Mining Safety Engineers"
+456,3,Not relevant,4,17-3026.01,Nanotechnology Engineering Technologists and Technicians
+457,3,Not relevant,3,29-2099.01,Neurodiagnostic Technologists
+458,3,Not relevant,3,31-1131.00,Nursing Assistants
+459,3,Not relevant,3,31-2011.00,Occupational Therapy Assistants
+460,3,Not relevant,2,43-9071.00,"Office Machine Operators, Except Computer"
+461,3,Not relevant,3,29-2099.08,Patient Representatives
+462,3,Not relevant,3,27-4021.00,Photographers
+463,3,Not relevant,4,11-3051.01,Quality Control Systems Managers
+464,3,Not relevant,4,29-1141.00,Registered Nurses
+465,3,Not relevant,4,11-2022.00,Sales Managers
+466,3,Not relevant,4,25-2031.00,"Secondary School Teachers, Except Special and Career/Technical Education"
+467,3,Not relevant,4,41-3031.00,"Securities, Commodities, and Financial Services Sales Agents"
+468,3,Not relevant,3,41-4011.07,Solar Sales Representatives and Assessors
+469,3,Not relevant,3,31-9099.01,Speech-Language Pathology Assistants
+470,3,Not relevant,3,29-2055.00,Surgical Technologists
+471,3,Not relevant,5,25-9044.00,"Teaching Assistants, Postsecondary"
+472,3,Not relevant,2,43-2021.00,Telephone Operators
+473,3,Not relevant,2,51-6064.00,"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+474,3,Not relevant,3,39-7011.00,Tour Guides and Escorts
+475,3,Not relevant,4,11-9199.10,Wind Energy Development Managers
+476,3,Not relevant,4,17-2199.10,Wind Energy Engineers
+477,2,Not relevant,4,15-1299.02,Geographic Information Systems Technologists and Technicians
+478,0,Not relevant,4,13-2011.00,Accountants and Auditors
+479,0,Not relevant,2,27-2011.00,Actors
+480,0,Not relevant,4,15-2011.00,Actuaries
+481,0,Not relevant,5,29-1291.00,Acupuncturists
+482,0,Not relevant,3,29-1141.01,Acute Care Nurses
+483,0,Not relevant,5,25-2059.01,Adapted Physical Education Specialists
+484,0,Not relevant,5,23-1021.00,"Administrative Law Judges, Adjudicators, and Hearing Officers"
+485,0,Not relevant,4,25-3011.00,"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors"
+486,0,Not relevant,5,29-1141.02,Advanced Practice Psychiatric Nurses
+487,0,Not relevant,4,11-2011.00,Advertising and Promotions Managers
+488,0,Not relevant,4,17-2011.00,Aerospace Engineers
+489,0,Not relevant,4,13-1011.00,"Agents and Business Managers of Artists, Performers, and Athletes"
+490,0,Not relevant,5,25-1041.00,"Agricultural Sciences Teachers, Postsecondary"
+491,0,Not relevant,5,29-1229.01,Allergists and Immunologists
+492,0,Not relevant,5,29-1071.01,Anesthesiologist Assistants
+493,0,Not relevant,5,29-1211.00,Anesthesiologists
+494,0,Not relevant,5,25-1061.00,"Anthropology and Archeology Teachers, Postsecondary"
+495,0,Not relevant,5,23-1022.00,"Arbitrators, Mediators, and Conciliators"
+496,0,Not relevant,5,17-1011.00,"Architects, Except Landscape and Naval"
+497,0,Not relevant,3,17-3011.00,Architectural and Civil Drafters
+498,0,Not relevant,5,11-9041.00,Architectural and Engineering Managers
+499,0,Not relevant,5,25-1031.00,"Architecture Teachers, Postsecondary"
+500,0,Not relevant,5,25-4011.00,Archivists
+501,0,Not relevant,5,25-1062.00,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+502,0,Not relevant,4,27-1011.00,Art Directors
+503,0,Not relevant,5,29-1129.01,Art Therapists
+504,0,Not relevant,5,25-1121.00,"Art, Drama, and Music Teachers, Postsecondary"
+505,0,Not relevant,5,19-2011.00,Astronomers
+506,0,Not relevant,5,29-9091.00,Athletic Trainers
+507,0,Not relevant,4,19-2021.00,Atmospheric and Space Scientists
+508,0,Not relevant,5,25-1051.00,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+509,0,Not relevant,2,51-3011.00,Bakers
+510,0,Not relevant,3,39-5011.00,Barbers
+511,0,Not relevant,2,43-3011.00,Bill and Account Collectors
+512,0,Not relevant,5,19-1021.00,Biochemists and Biophysicists
+513,0,Not relevant,4,17-2031.00,Bioengineers and Biomedical Engineers
+514,0,Not relevant,4,11-3051.03,Biofuels Production Managers
+515,0,Not relevant,4,11-9041.01,Biofuels/Biodiesel Technology and Product Development Managers
+516,0,Not relevant,5,19-1029.01,Bioinformatics Scientists
+517,0,Not relevant,4,15-2099.01,Bioinformatics Technicians
+518,0,Not relevant,5,25-1042.00,"Biological Science Teachers, Postsecondary"
+519,0,Not relevant,5,15-2041.01,Biostatisticians
+520,0,Not relevant,3,43-3031.00,"Bookkeeping, Accounting, and Auditing Clerks"
+521,0,Not relevant,3,43-4011.00,Brokerage Clerks
+522,0,Not relevant,4,11-9199.11,Brownfield Redevelopment Specialists and Site Managers
+523,0,Not relevant,4,13-2031.00,Budget Analysts
+524,0,Not relevant,4,13-1199.04,Business Continuity Planners
+525,0,Not relevant,4,15-2051.01,Business Intelligence Analysts
+526,0,Not relevant,5,25-1011.00,"Business Teachers, Postsecondary"
+527,0,Not relevant,4,13-1021.00,"Buyers and Purchasing Agents, Farm Products"
+528,0,Not relevant,3,49-9061.00,Camera and Photographic Equipment Repairers
+529,0,Not relevant,3,29-2031.00,Cardiovascular Technologists and Technicians
+530,0,Not relevant,4,25-2023.00,"Career/Technical Education Teachers, Middle School"
+531,0,Not relevant,4,25-2032.00,"Career/Technical Education Teachers, Secondary School"
+532,0,Not relevant,4,17-1021.00,Cartographers and Photogrammetrists
+533,0,Not relevant,2,41-2011.00,Cashiers
+534,0,Not relevant,4,17-2041.00,Chemical Engineers
+535,0,Not relevant,3,19-4031.00,Chemical Technicians
+536,0,Not relevant,5,25-1052.00,"Chemistry Teachers, Postsecondary"
+537,0,Not relevant,4,19-2031.00,Chemists
+538,0,Not relevant,5,11-1011.03,Chief Sustainability Officers
+539,0,Not relevant,5,29-1011.00,Chiropractors
+540,0,Not relevant,4,27-2032.00,Choreographers
+541,0,Not relevant,4,17-2051.00,Civil Engineers
+542,0,Not relevant,4,13-1031.00,"Claims Adjusters, Examiners, and Investigators"
+543,0,Not relevant,5,21-2011.00,Clergy
+544,0,Not relevant,5,19-2041.01,Climate Change Policy Analysts
+545,0,Not relevant,4,15-2051.02,Clinical Data Managers
+546,0,Not relevant,5,29-1141.04,Clinical Nurse Specialists
+547,0,Not relevant,4,11-9121.01,Clinical Research Coordinators
+548,0,Not relevant,4,27-1021.00,Commercial and Industrial Designers
+549,0,Not relevant,4,11-3111.00,Compensation and Benefits Managers
+550,0,Not relevant,5,15-1221.00,Computer and Information Research Scientists
+551,0,Not relevant,4,11-3021.00,Computer and Information Systems Managers
+552,0,Not relevant,4,15-1241.00,Computer Network Architects
+553,0,Not relevant,4,15-1251.00,Computer Programmers
+554,0,Not relevant,5,25-1021.00,"Computer Science Teachers, Postsecondary"
+555,0,Not relevant,3,15-1211.00,Computer Systems Analysts
+556,0,Not relevant,4,15-1299.08,Computer Systems Engineers/Architects
+557,0,Not relevant,3,15-1232.00,Computer User Support Specialists
+558,0,Not relevant,4,11-9021.00,Construction Managers
+559,0,Not relevant,1,35-2011.00,"Cooks, Fast Food"
+560,0,Not relevant,2,35-2012.00,"Cooks, Institution and Cafeteria"
+561,0,Not relevant,3,35-2013.00,"Cooks, Private Household"
+562,0,Not relevant,2,35-2015.00,"Cooks, Short Order"
+563,0,Not relevant,2,43-4021.00,Correspondence Clerks
+564,0,Not relevant,4,13-1051.00,Cost Estimators
+565,0,Not relevant,2,39-3092.00,Costume Attendants
+566,0,Not relevant,3,27-3092.00,Court Reporters and Simultaneous Captioners
+567,0,Not relevant,2,43-4031.00,"Court, Municipal, and License Clerks"
+568,0,Not relevant,3,27-1012.00,Craft Artists
+569,0,Not relevant,4,13-2041.00,Credit Analysts
+570,0,Not relevant,2,43-4041.00,"Credit Authorizers, Checkers, and Clerks"
+571,0,Not relevant,4,13-2071.00,Credit Counselors
+572,0,Not relevant,5,25-1111.00,"Criminal Justice and Law Enforcement Teachers, Postsecondary"
+573,0,Not relevant,4,29-1141.03,Critical Care Nurses
+574,0,Not relevant,5,25-4012.00,Curators
+575,0,Not relevant,2,43-4051.00,Customer Service Representatives
+576,0,Not relevant,3,13-1041.08,Customs Brokers
+577,0,Not relevant,1,51-9031.00,"Cutters and Trimmers, Hand"
+578,0,Not relevant,4,29-2011.01,Cytogenetic Technologists
+579,0,Not relevant,5,29-2011.02,Cytotechnologists
+580,0,Not relevant,3,27-2031.00,Dancers
+581,0,Not relevant,2,43-9021.00,Data Entry Keyers
+582,0,Not relevant,4,15-1243.01,Data Warehousing Specialists
+583,0,Not relevant,4,15-1242.00,Database Administrators
+584,0,Not relevant,4,15-1243.00,Database Architects
+585,0,Not relevant,2,41-9011.00,Demonstrators and Product Promoters
+586,0,Not relevant,3,31-9091.00,Dental Assistants
+587,0,Not relevant,3,29-1292.00,Dental Hygienists
+588,0,Not relevant,5,29-1021.00,"Dentists, General"
+589,0,Not relevant,5,29-1213.00,Dermatologists
+590,0,Not relevant,3,29-2032.00,Diagnostic Medical Sonographers
+591,0,Not relevant,5,29-1031.00,Dietitians and Nutritionists
+592,0,Not relevant,1,35-9011.00,Dining Room and Cafeteria Attendants and Bartender Helpers
+593,0,Not relevant,4,21-2021.00,"Directors, Religious Activities and Education"
+594,0,Not relevant,2,43-5032.00,"Dispatchers, Except Police, Fire, and Ambulance"
+595,0,Not relevant,4,15-1299.03,Document Management Specialists
+596,0,Not relevant,1,41-9091.00,"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+597,0,Not relevant,5,25-1063.00,"Economics Teachers, Postsecondary"
+598,0,Not relevant,5,19-3011.00,Economists
+599,0,Not relevant,4,27-3041.00,Editors
+600,0,Not relevant,5,11-9032.00,"Education Administrators, Kindergarten through Secondary"
+601,0,Not relevant,5,11-9033.00,"Education Administrators, Postsecondary"
+602,0,Not relevant,4,11-9031.00,"Education and Childcare Administrators, Preschool and Daycare"
+603,0,Not relevant,5,25-1081.00,"Education Teachers, Postsecondary"
+604,0,Not relevant,5,21-1012.00,"Educational, Guidance, and Career Counselors and Advisors"
+605,0,Not relevant,4,17-2072.00,"Electronics Engineers, Except Computer"
+606,0,Not relevant,3,43-4061.00,"Eligibility Interviewers, Government Programs"
+607,0,Not relevant,4,17-2199.03,"Energy Engineers, Except Wind and Solar"
+608,0,Not relevant,5,25-1032.00,"Engineering Teachers, Postsecondary"
+609,0,Not relevant,5,25-1123.00,"English Language and Literature Teachers, Postsecondary"
+610,0,Not relevant,4,17-2081.00,Environmental Engineers
+611,0,Not relevant,5,25-1053.00,"Environmental Science Teachers, Postsecondary"
+612,0,Not relevant,5,19-1041.00,Epidemiologists
+613,0,Not relevant,3,43-6011.00,Executive Secretaries and Executive Administrative Assistants
+614,0,Not relevant,4,29-1128.00,Exercise Physiologists
+615,0,Not relevant,3,51-6092.00,Fabric and Apparel Patternmakers
+616,0,Not relevant,5,25-1192.00,"Family and Consumer Sciences Teachers, Postsecondary"
+617,0,Not relevant,5,29-1215.00,Family Medicine Physicians
+618,0,Not relevant,3,27-1022.00,Fashion Designers
+619,0,Not relevant,2,43-4071.00,File Clerks
+620,0,Not relevant,4,13-2061.00,Financial Examiners
+621,0,Not relevant,5,13-2099.01,Financial Quantitative Analysts
+622,0,Not relevant,3,27-1013.00,"Fine Artists, Including Painters, Sculptors, and Illustrators"
+623,0,Not relevant,4,17-2111.02,Fire-Prevention and Protection Engineers
+624,0,Not relevant,2,35-1012.00,First-Line Supervisors of Food Preparation and Serving Workers
+625,0,Not relevant,4,41-1012.00,First-Line Supervisors of Non-Retail Sales Workers
+626,0,Not relevant,3,43-1011.00,First-Line Supervisors of Office and Administrative Support Workers
+627,0,Not relevant,4,11-9179.01,Fitness and Wellness Coordinators
+628,0,Not relevant,1,35-2021.00,Food Preparation Workers
+629,0,Not relevant,4,19-1012.00,Food Scientists and Technologists
+630,0,Not relevant,2,35-3041.00,"Food Servers, Nonrestaurant"
+631,0,Not relevant,2,11-9051.00,Food Service Managers
+632,0,Not relevant,5,25-1124.00,"Foreign Language and Literature Teachers, Postsecondary"
+633,0,Not relevant,4,13-2099.04,"Fraud Examiners, Investigators and Analysts"
+634,0,Not relevant,2,43-5011.01,Freight Forwarders
+635,0,Not relevant,4,13-1131.00,Fundraisers
+636,0,Not relevant,2,39-3012.00,Gambling and Sports Book Writers and Runners
+637,0,Not relevant,2,43-3041.00,Gambling Cage Workers
+638,0,Not relevant,2,11-9071.00,Gambling Managers
+639,0,Not relevant,2,33-9031.00,Gambling Surveillance Officers and Gambling Investigators
+640,0,Not relevant,3,51-9071.06,Gem and Diamond Workers
+641,0,Not relevant,5,29-1216.00,General Internal Medicine Physicians
+642,0,Not relevant,5,29-9092.00,Genetic Counselors
+643,0,Not relevant,5,19-1029.03,Geneticists
+644,0,Not relevant,4,19-3092.00,Geographers
+645,0,Not relevant,5,25-1064.00,"Geography Teachers, Postsecondary"
+646,0,Not relevant,1,45-2041.00,"Graders and Sorters, Agricultural Products"
+647,0,Not relevant,4,27-1024.00,Graphic Designers
+648,0,Not relevant,3,39-5012.00,"Hairdressers, Hairstylists, and Cosmetologists"
+649,0,Not relevant,4,21-1091.00,Health Education Specialists
+650,0,Not relevant,4,15-1211.01,Health Informatics Specialists
+651,0,Not relevant,5,25-1071.00,"Health Specialties Teachers, Postsecondary"
+652,0,Not relevant,5,21-1022.00,Healthcare Social Workers
+653,0,Not relevant,5,19-3093.00,Historians
+654,0,Not relevant,5,25-1125.00,"History Teachers, Postsecondary"
+655,0,Not relevant,5,29-1229.02,Hospitalists
+656,0,Not relevant,2,35-9031.00,"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+657,0,Not relevant,2,43-4081.00,"Hotel, Motel, and Resort Desk Clerks"
+658,0,Not relevant,5,17-2112.01,Human Factors Engineers and Ergonomists
+659,0,Not relevant,3,43-4161.00,"Human Resources Assistants, Except Payroll and Timekeeping"
+660,0,Not relevant,4,11-3121.00,Human Resources Managers
+661,0,Not relevant,4,13-1071.00,Human Resources Specialists
+662,0,Not relevant,5,19-2041.03,Industrial Ecologists
+663,0,Not relevant,4,17-2112.00,Industrial Engineers
+664,0,Not relevant,5,19-3032.00,Industrial-Organizational Psychologists
+665,0,Not relevant,4,15-1212.00,Information Security Analysts
+666,0,Not relevant,5,25-9031.00,Instructional Coordinators
+667,0,Not relevant,4,41-3021.00,Insurance Sales Agents
+668,0,Not relevant,4,13-2053.00,Insurance Underwriters
+669,0,Not relevant,4,33-3021.06,Intelligence Analysts
+670,0,Not relevant,4,27-1025.00,Interior Designers
+671,0,Not relevant,4,27-3091.00,Interpreters and Translators
+672,0,Not relevant,3,43-4111.00,"Interviewers, Except Eligibility and Loan"
+673,0,Not relevant,5,11-3031.03,Investment Fund Managers
+674,0,Not relevant,3,37-2011.00,"Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+675,0,Not relevant,3,51-9071.00,Jewelers and Precious Stone and Metal Workers
+676,0,Not relevant,5,23-1023.00,"Judges, Magistrate Judges, and Magistrates"
+677,0,Not relevant,5,23-1012.00,Judicial Law Clerks
+678,0,Not relevant,4,13-1075.00,Labor Relations Specialists
+679,0,Not relevant,4,17-1012.00,Landscape Architects
+680,0,Not relevant,1,51-6011.00,Laundry and Dry-Cleaning Workers
+681,0,Not relevant,5,25-1112.00,"Law Teachers, Postsecondary"
+682,0,Not relevant,5,23-1011.00,Lawyers
+683,0,Not relevant,3,43-6012.00,Legal Secretaries and Administrative Assistants
+684,0,Not relevant,2,43-4121.00,"Library Assistants, Clerical"
+685,0,Not relevant,5,25-1082.00,"Library Science Teachers, Postsecondary"
+686,0,Not relevant,3,29-2061.00,Licensed Practical and Licensed Vocational Nurses
+687,0,Not relevant,3,43-4131.00,Loan Interviewers and Clerks
+688,0,Not relevant,4,13-2072.00,Loan Officers
+689,0,Not relevant,2,39-3093.00,"Locker Room, Coatroom, and Dressing Room Attendants"
+690,0,Not relevant,4,13-1081.00,Logisticians
+691,0,Not relevant,4,13-1081.02,Logistics Analysts
+692,0,Not relevant,4,13-1081.01,Logistics Engineers
+693,0,Not relevant,4,11-9199.08,Loss Prevention Managers
+694,0,Not relevant,3,29-2035.00,Magnetic Resonance Imaging Technologists
+695,0,Not relevant,1,37-2012.00,Maids and Housekeeping Cleaners
+696,0,Not relevant,3,39-5091.00,"Makeup Artists, Theatrical and Performance"
+697,0,Not relevant,4,13-1111.00,Management Analysts
+698,0,Not relevant,2,39-5092.00,Manicurists and Pedicurists
+699,0,Not relevant,4,13-1161.00,Market Research Analysts and Marketing Specialists
+700,0,Not relevant,4,11-2021.00,Marketing Managers
+701,0,Not relevant,5,21-1013.00,Marriage and Family Therapists
+702,0,Not relevant,3,31-9011.00,Massage Therapists
+703,0,Not relevant,4,17-2131.00,Materials Engineers
+704,0,Not relevant,5,19-2032.00,Materials Scientists
+705,0,Not relevant,5,25-1022.00,"Mathematical Science Teachers, Postsecondary"
+706,0,Not relevant,5,15-2021.00,Mathematicians
+707,0,Not relevant,3,17-3013.00,Mechanical Drafters
+708,0,Not relevant,4,17-2141.00,Mechanical Engineers
+709,0,Not relevant,3,29-2012.00,Medical and Clinical Laboratory Technicians
+710,0,Not relevant,4,29-2011.00,Medical and Clinical Laboratory Technologists
+711,0,Not relevant,4,11-9111.00,Medical and Health Services Managers
+712,0,Not relevant,3,51-9082.00,Medical Appliance Technicians
+713,0,Not relevant,5,19-1042.00,"Medical Scientists, Except Epidemiologists"
+714,0,Not relevant,2,43-6013.00,Medical Secretaries and Administrative Assistants
+715,0,Not relevant,3,31-9094.00,Medical Transcriptionists
+716,0,Not relevant,5,21-1023.00,Mental Health and Substance Abuse Social Workers
+717,0,Not relevant,5,21-1014.00,Mental Health Counselors
+718,0,Not relevant,3,27-1026.00,Merchandise Displayers and Window Trimmers
+719,0,Not relevant,5,19-1022.00,Microbiologists
+720,0,Not relevant,5,17-2199.06,Microsystems Engineers
+721,0,Not relevant,4,25-2022.00,"Middle School Teachers, Except Special and Career/Technical Education"
+722,0,Not relevant,5,29-9099.01,Midwives
+723,0,Not relevant,2,41-9012.00,Models
+724,0,Not relevant,5,19-1029.02,Molecular and Cellular Biologists
+725,0,Not relevant,4,25-4013.00,Museum Technicians and Conservators
+726,0,Not relevant,5,17-2199.09,Nanosystems Engineers
+727,0,Not relevant,5,29-1299.01,Naturopathic Physicians
+728,0,Not relevant,4,15-1244.00,Network and Computer Systems Administrators
+729,0,Not relevant,5,29-1217.00,Neurologists
+730,0,Not relevant,3,43-4141.00,New Accounts Clerks
+731,0,Not relevant,4,27-3023.00,"News Analysts, Reporters, and Journalists"
+732,0,Not relevant,4,17-2161.00,Nuclear Engineers
+733,0,Not relevant,3,29-2033.00,Nuclear Medicine Technologists
+734,0,Not relevant,3,19-4051.02,Nuclear Monitoring Technicians
+735,0,Not relevant,3,51-8011.00,Nuclear Power Reactor Operators
+736,0,Not relevant,5,29-1151.00,Nurse Anesthetists
+737,0,Not relevant,5,29-1161.00,Nurse Midwives
+738,0,Not relevant,5,29-1171.00,Nurse Practitioners
+739,0,Not relevant,5,25-1072.00,"Nursing Instructors and Teachers, Postsecondary"
+740,0,Not relevant,5,29-1218.00,Obstetricians and Gynecologists
+741,0,Not relevant,5,29-1122.00,Occupational Therapists
+742,0,Not relevant,2,43-9061.00,"Office Clerks, General"
+743,0,Not relevant,4,13-1199.06,Online Merchants
+744,0,Not relevant,5,15-2031.00,Operations Research Analysts
+745,0,Not relevant,2,51-9083.00,Ophthalmic Laboratory Technicians
+746,0,Not relevant,3,29-2057.00,Ophthalmic Medical Technicians
+747,0,Not relevant,3,29-2099.05,Ophthalmic Medical Technologists
+748,0,Not relevant,3,29-2081.00,"Opticians, Dispensing"
+749,0,Not relevant,5,29-1041.00,Optometrists
+750,0,Not relevant,5,29-1022.00,Oral and Maxillofacial Surgeons
+751,0,Not relevant,2,43-4151.00,Order Clerks
+752,0,Not relevant,5,29-1023.00,Orthodontists
+753,0,Not relevant,5,29-1299.02,Orthoptists
+754,0,Not relevant,5,29-2091.00,Orthotists and Prosthetists
+755,0,Not relevant,1,51-9123.00,"Painting, Coating, and Decorating Workers"
+756,0,Not relevant,3,23-2011.00,Paralegals and Legal Assistants
+757,0,Not relevant,3,43-3051.00,Payroll and Timekeeping Clerks
+758,0,Not relevant,5,29-1221.00,"Pediatricians, General"
+759,0,Not relevant,4,13-2052.00,Personal Financial Advisors
+760,0,Not relevant,4,17-2171.00,Petroleum Engineers
+761,0,Not relevant,5,29-1051.00,Pharmacists
+762,0,Not relevant,2,31-9095.00,Pharmacy Aides
+763,0,Not relevant,3,29-2052.00,Pharmacy Technicians
+764,0,Not relevant,5,25-1126.00,"Philosophy and Religion Teachers, Postsecondary"
+765,0,Not relevant,3,31-9097.00,Phlebotomists
+766,0,Not relevant,2,51-9151.00,Photographic Process Workers and Processing Machine Operators
+767,0,Not relevant,4,17-2199.07,Photonics Engineers
+768,0,Not relevant,3,17-3029.08,Photonics Technicians
+769,0,Not relevant,5,29-1229.04,Physical Medicine and Rehabilitation Physicians
+770,0,Not relevant,2,31-2022.00,Physical Therapist Aides
+771,0,Not relevant,3,31-2021.00,Physical Therapist Assistants
+772,0,Not relevant,5,29-1123.00,Physical Therapists
+773,0,Not relevant,5,29-1071.00,Physician Assistants
+774,0,Not relevant,5,29-1222.00,"Physicians, Pathologists"
+775,0,Not relevant,5,19-2012.00,Physicists
+776,0,Not relevant,5,25-1054.00,"Physics Teachers, Postsecondary"
+777,0,Not relevant,5,29-1081.00,Podiatrists
+778,0,Not relevant,4,27-3043.05,"Poets, Lyricists and Creative Writers"
+779,0,Not relevant,5,25-1065.00,"Political Science Teachers, Postsecondary"
+780,0,Not relevant,5,19-3094.00,Political Scientists
+781,0,Not relevant,2,43-5051.00,Postal Service Clerks
+782,0,Not relevant,2,43-5053.00,"Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+783,0,Not relevant,2,11-9131.00,Postmasters and Mail Superintendents
+784,0,Not relevant,3,51-5111.00,Prepress Technicians and Workers
+785,0,Not relevant,1,51-6021.00,"Pressers, Textile, Garment, and Related Materials"
+786,0,Not relevant,5,29-1229.05,Preventive Medicine Physicians
+787,0,Not relevant,2,43-3061.00,Procurement Clerks
+788,0,Not relevant,2,43-5061.00,"Production, Planning, and Expediting Clerks"
+789,0,Not relevant,4,43-9081.00,Proofreaders and Copy Markers
+790,0,Not relevant,4,11-9141.00,"Property, Real Estate, and Community Association Managers"
+791,0,Not relevant,5,29-1024.00,Prosthodontists
+792,0,Not relevant,5,29-1223.00,Psychiatrists
+793,0,Not relevant,5,25-1066.00,"Psychology Teachers, Postsecondary"
+794,0,Not relevant,4,27-3031.00,Public Relations Specialists
+795,0,Not relevant,2,43-5031.00,Public Safety Telecommunicators
+796,0,Not relevant,4,13-1023.00,"Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+797,0,Not relevant,4,11-3061.00,Purchasing Managers
+798,0,Not relevant,3,19-4099.01,Quality Control Analysts
+799,0,Not relevant,4,17-2072.01,Radio Frequency Identification Device Specialists
+800,0,Not relevant,5,29-1224.00,Radiologists
+801,0,Not relevant,4,41-9021.00,Real Estate Brokers
+802,0,Not relevant,2,43-4171.00,Receptionists and Information Clerks
+803,0,Not relevant,5,25-1193.00,"Recreation and Fitness Studies Teachers, Postsecondary"
+804,0,Not relevant,4,39-9032.00,Recreation Workers
+805,0,Not relevant,4,11-9199.01,Regulatory Affairs Managers
+806,0,Not relevant,4,13-1041.07,Regulatory Affairs Specialists
+807,0,Not relevant,4,21-1015.00,Rehabilitation Counselors
+808,0,Not relevant,4,19-2099.01,Remote Sensing Scientists and Technologists
+809,0,Not relevant,4,19-4099.03,Remote Sensing Technicians
+810,0,Not relevant,2,43-4181.00,Reservation and Transportation Ticket Agents and Travel Clerks
+811,0,Not relevant,2,41-2031.00,Retail Salespersons
+812,0,Not relevant,4,41-9031.00,Sales Engineers
+813,0,Not relevant,4,41-4011.00,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+814,0,Not relevant,5,19-3034.00,School Psychologists
+815,0,Not relevant,4,13-1161.01,Search Marketing Strategists
+816,0,Not relevant,2,43-6014.00,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+817,0,Not relevant,3,25-3021.00,Self-Enrichment Teachers
+818,0,Not relevant,2,51-6051.00,"Sewers, Hand"
+819,0,Not relevant,1,51-6031.00,Sewing Machine Operators
+820,0,Not relevant,2,39-5093.00,Shampooers
+821,0,Not relevant,2,51-6042.00,Shoe Machine Operators and Tenders
+822,0,Not relevant,3,39-5094.00,Skincare Specialists
+823,0,Not relevant,2,51-3023.00,Slaughterers and Meat Packers
+824,0,Not relevant,4,11-9151.00,Social and Community Service Managers
+825,0,Not relevant,4,21-1093.00,Social and Human Service Assistants
+826,0,Not relevant,4,19-4061.00,Social Science Research Assistants
+827,0,Not relevant,5,25-1113.00,"Social Work Teachers, Postsecondary"
+828,0,Not relevant,5,19-3041.00,Sociologists
+829,0,Not relevant,5,25-1067.00,"Sociology Teachers, Postsecondary"
+830,0,Not relevant,4,15-1253.00,Software Quality Assurance Analysts and Testers
+831,0,Not relevant,3,11-9179.02,Spa Managers
+832,0,Not relevant,4,25-2057.00,"Special Education Teachers, Middle School"
+833,0,Not relevant,4,25-2058.00,"Special Education Teachers, Secondary School"
+834,0,Not relevant,4,27-1014.00,Special Effects Artists and Animators
+835,0,Not relevant,5,29-1229.06,Sports Medicine Physicians
+836,0,Not relevant,4,43-9111.00,Statistical Assistants
+837,0,Not relevant,5,15-2041.00,Statisticians
+838,0,Not relevant,4,11-3071.04,Supply Chain Managers
+839,0,Not relevant,5,19-3022.00,Survey Researchers
+840,0,Not relevant,4,13-1199.05,Sustainability Specialists
+841,0,Not relevant,2,43-2011.00,"Switchboard Operators, Including Answering Service"
+842,0,Not relevant,2,51-6052.00,"Tailors, Dressmakers, and Custom Sewers"
+843,0,Not relevant,4,27-2012.04,Talent Directors
+844,0,Not relevant,3,13-2081.00,"Tax Examiners and Collectors, and Revenue Agents"
+845,0,Not relevant,3,13-2082.00,Tax Preparers
+846,0,Not relevant,4,27-3042.00,Technical Writers
+847,0,Not relevant,2,41-9041.00,Telemarketers
+848,0,Not relevant,2,43-3071.00,Tellers
+849,0,Not relevant,2,23-2093.00,"Title Examiners, Abstractors, and Searchers"
+850,0,Not relevant,4,11-3131.00,Training and Development Managers
+851,0,Not relevant,4,13-1151.00,Training and Development Specialists
+852,0,Not relevant,4,17-2051.01,Transportation Engineers
+853,0,Not relevant,4,19-3099.01,Transportation Planners
+854,0,Not relevant,3,41-3041.00,Travel Agents
+855,0,Not relevant,4,11-3031.01,Treasurers and Controllers
+856,0,Not relevant,3,25-3041.00,Tutors
+857,0,Not relevant,5,19-3051.00,Urban and Regional Planners
+858,0,Not relevant,2,39-3031.00,"Ushers, Lobby Attendants, and Ticket Takers"
+859,0,Not relevant,4,17-2112.02,Validation Engineers
+860,0,Not relevant,5,29-1131.00,Veterinarians
+861,0,Not relevant,2,31-9096.00,Veterinary Assistants and Laboratory Animal Caretakers
+862,0,Not relevant,3,29-2056.00,Veterinary Technologists and Technicians
+863,0,Not relevant,4,15-1255.01,Video Game Designers
+864,0,Not relevant,2,35-3031.00,Waiters and Waitresses
+865,0,Not relevant,3,49-9064.00,Watch and Clock Repairers
+866,0,Not relevant,4,11-9121.02,Water Resource Specialists
+867,0,Not relevant,4,17-2051.02,Water/Wastewater Engineers
+868,0,Not relevant,4,15-1299.01,Web Administrators
+869,0,Not relevant,3,15-1254.00,Web Developers
+870,0,Not relevant,3,13-1022.00,"Wholesale and Retail Buyers, Except Farm Products"
+871,0,Not relevant,2,43-9022.00,Word Processors and Typists
+872,0,Not relevant,4,27-3043.00,Writers and Authors

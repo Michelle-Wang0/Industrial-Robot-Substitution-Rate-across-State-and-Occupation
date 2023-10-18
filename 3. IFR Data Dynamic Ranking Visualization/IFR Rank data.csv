@@ -1,0 +1,289 @@
+Name,Year,Value
+United States,2011,20555
+United States,2012,22414
+United States,2013,23679
+United States,2014,26202
+United States,2015,27504
+United States,2016,31404
+United States,2017,33146
+United States,2018,40373
+Canada,2011,1848
+Canada,2012,1749
+Canada,2013,2250
+Canada,2014,2333
+Canada,2015,3474
+Canada,2016,2334
+Canada,2017,4057
+Canada,2018,3582
+Mexico,2011,1938
+Mexico,2012,2106
+Mexico,2013,2739
+Mexico,2014,2494
+Mexico,2015,5466
+Mexico,2016,5933
+Mexico,2017,6356
+Mexico,2018,5681
+Brazil,2011,1440
+Brazil,2012,1645
+Brazil,2013,1398
+Brazil,2014,1266
+Brazil,2015,1407
+Brazil,2016,1207
+Brazil,2017,1001
+Brazil,2018,2196
+China,2011,22577
+China,2012,22987
+China,2013,36560
+China,2014,57096
+China,2015,68556
+China,2016,96500
+China,2017,156176
+China,2018,154032
+India,2011,1547
+India,2012,1508
+India,2013,1917
+India,2014,2126
+India,2015,2065
+India,2016,2627
+India,2017,3424
+India,2018,4771
+Indonesia,2011,728
+Indonesia,2012,728
+Indonesia,2013,728
+Indonesia,2014,728
+Indonesia,2015,728
+Indonesia,2016,728
+Indonesia,2017,728
+Indonesia,2018,728
+Japan,2011,27894
+Japan,2012,28680
+Japan,2013,25110
+Japan,2014,29297
+Japan,2015,35023
+Japan,2016,38586
+Japan,2017,45647
+Japan,2018,55240
+Malaysia,2011,646
+Malaysia,2012,775
+Malaysia,2013,791
+Malaysia,2014,852
+Malaysia,2015,998
+Malaysia,2016,1881
+Malaysia,2017,2863
+Malaysia,2018,1860
+Singapore,2011,1320
+Singapore,2012,1177
+Singapore,2013,1197
+Singapore,2014,1228
+Singapore,2015,1895
+Singapore,2016,2609
+Singapore,2017,4559
+Singapore,2018,4290
+Korea,2011,25536
+Korea,2012,19424
+Korea,2013,21307
+Korea,2014,24721
+Korea,2015,38285
+Korea,2016,41373
+Korea,2017,39777
+Korea,2018,37807
+Taiwan China,2011,3688
+Taiwan China,2012,3368
+Taiwan China,2013,5457
+Taiwan China,2014,6912
+Taiwan China,2015,7200
+Taiwan China,2016,7569
+Taiwan China,2017,10907
+Taiwan China,2018,12145
+Thailand,2011,3453
+Thailand,2012,4028
+Thailand,2013,3221
+Thailand,2014,3657
+Thailand,2015,2556
+Thailand,2016,2646
+Thailand,2017,3386
+Thailand,2018,3323
+Vietnam,2011,193
+Vietnam,2012,287
+Vietnam,2013,389
+Vietnam,2014,348
+Vietnam,2015,510
+Vietnam,2016,1618
+Vietnam,2017,8274
+Vietnam,2018,1636
+Czech,2011,1618
+Czech,2012,1040
+Czech,2013,1337
+Czech,2014,1533
+Czech,2015,2193
+Czech,2016,1974
+Czech,2017,2893
+Czech,2018,2725
+Hungary,2011,961
+Hungary,2012,974
+Hungary,2013,555
+Hungary,2014,534
+Hungary,2015,517
+Hungary,2016,717
+Hungary,2017,2470
+Hungary,2018,912
+Polish,2011,686
+Polish,2012,725
+Polish,2013,692
+Polish,2014,1267
+Polish,2015,1795
+Polish,2016,1632
+Polish,2017,1891
+Polish,2018,2651
+Romania,2011,469
+Romania,2012,153
+Romania,2013,171
+Romania,2014,251
+Romania,2015,350
+Romania,2016,784
+Romania,2017,634
+Romania,2018,495
+Russia,2011,290
+Russia,2012,443
+Russia,2013,615
+Russia,2014,339
+Russia,2015,347
+Russia,2016,358
+Russia,2017,711
+Russia,2018,1007
+Slovakia,2011,415
+Slovakia,2012,174
+Slovakia,2013,1313
+Slovakia,2014,343
+Slovakia,2015,488
+Slovakia,2016,1732
+Slovakia,2017,1203
+Slovakia,2018,749
+Balkan Peninsula,2011,208
+Balkan Peninsula,2012,361
+Balkan Peninsula,2013,296
+Balkan Peninsula,2014,283
+Balkan Peninsula,2015,332
+Balkan Peninsula,2016,452
+Balkan Peninsula,2017,492
+Balkan Peninsula,2018,812
+Austrian,2011,628
+Austrian,2012,835
+Austrian,2013,720
+Austrian,2014,898
+Austrian,2015,987
+Austrian,2016,1686
+Austrian,2017,1641
+Austrian,2018,1504
+Belgium,2011,737
+Belgium,2012,1077
+Belgium,2013,1518
+Belgium,2014,484
+Belgium,2015,491
+Belgium,2016,871
+Belgium,2017,1154
+Belgium,2018,1035
+Switzerland,2011,673
+Switzerland,2012,584
+Switzerland,2013,593
+Switzerland,2014,650
+Switzerland,2015,734
+Switzerland,2016,805
+Switzerland,2017,1165
+Switzerland,2018,1474
+German,2011,19533
+German,2012,17528
+German,2013,18297
+German,2014,20051
+German,2015,19945
+German,2016,20074
+German,2017,21267
+German,2018,26723
+Spanish,2011,3091
+Spanish,2012,2005
+Spanish,2013,2764
+Spanish,2014,2312
+Spanish,2015,3766
+Spanish,2016,3919
+Spanish,2017,4250
+Spanish,2018,5266
+French,2011,3058
+French,2012,2956
+French,2013,2161
+French,2014,2944
+French,2015,3045
+French,2016,4232
+French,2017,5014
+French,2018,5829
+Italy,2011,5091
+Italy,2012,4402
+Italy,2013,4701
+Italy,2014,6215
+Italy,2015,6657
+Italy,2016,6465
+Italy,2017,7760
+Italy,2018,9847
+Netherlands,2011,1015
+Netherlands,2012,810
+Netherlands,2013,895
+Netherlands,2014,1234
+Netherlands,2015,1487
+Netherlands,2016,1778
+Netherlands,2017,1814
+Netherlands,2018,1658
+Portugal,2011,212
+Portugal,2012,276
+Portugal,2013,262
+Portugal,2014,342
+Portugal,2015,425
+Portugal,2016,993
+Portugal,2017,824
+Portugal,2018,696
+United Kingdom,2011,1514
+United Kingdom,2012,2943
+United Kingdom,2013,2486
+United Kingdom,2014,2094
+United Kingdom,2015,1645
+United Kingdom,2016,1787
+United Kingdom,2017,2380
+United Kingdom,2018,2415
+Denmark,2011,436
+Denmark,2012,503
+Denmark,2013,477
+Denmark,2014,608
+Denmark,2015,628
+Denmark,2016,752
+Denmark,2017,800
+Denmark,2018,673
+Sweden,2011,1016
+Sweden,2012,1016
+Sweden,2013,1199
+Sweden,2014,1073
+Sweden,2015,1501
+Sweden,2016,1647
+Sweden,2017,1517
+Sweden,2018,1263
+Finland,2011,297
+Finland,2012,330
+Finland,2013,365
+Finland,2014,286
+Finland,2015,333
+Finland,2016,699
+Finland,2017,476
+Finland,2018,532
+Norway,2011,70
+Norway,2012,91
+Norway,2013,84
+Norway,2014,83
+Norway,2015,108
+Norway,2016,166
+Norway,2017,192
+Norway,2018,150
+Turkish,2011,864
+Turkish,2012,995
+Turkish,2013,1136
+Turkish,2014,1246
+Turkish,2015,1705
+Turkish,2016,1840
+Turkish,2017,2050
+Turkish,2018,2267
