@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  8 20:56:36 2023
 
-@author: Zhiwen Zhu | andrew ID: zhiwenz
-"""
 '''
 This script is for matching and cleaning the data set we collected:
 1. industry robots stock data of US from IFR (from 2015-2018),

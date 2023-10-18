@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# author: Michelle Wang
-
 """This script visualizes the robot penetration across states of the USA in a certain year and industry.
  The user can select a year (from 2015, 2016, 2017, or 2018) and an industry (number 1-17),
  then with the Pyecharts library, a geospatial visualizaiton is generated showing each state's robot penetration rate in the input year and industry.

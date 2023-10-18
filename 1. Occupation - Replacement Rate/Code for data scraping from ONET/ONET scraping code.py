@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 30 12:21:14 2023
-
-@author: Zhiwen Zhu | Andrew ID: zhiwenz
 
 This .py file is for scrape data from O*NET website to get the skill data for every occupation
 First, we iterate over all URLs with occupational skills data in O*NET

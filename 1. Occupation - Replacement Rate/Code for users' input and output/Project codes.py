@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct  3 22:05:58 2023
-
-@author: HengJiang
 
 This script computes the robot replacement rate for each occupation, 
 which we interpret as the possibility of each occupation being replaced by industrial robots.

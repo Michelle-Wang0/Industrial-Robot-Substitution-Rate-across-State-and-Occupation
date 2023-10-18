@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Oct  7 13:11:25 2023
 
-@author: 86155
-"""
 import random
 import pandas as pd
 import matplotlib.pyplot as plt

@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-# Michelle Wang
 
 """ After downloading BEA-API from https://us-bea.github.io/beaapi/README.html
 we can open the terminal and type:  python -m pip install --upgrade --force-reinstall /Users/manqiaowang/Downloads/beaapi-0.0.2-py3-none-any.whl 
